@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.serverops.fabric.overhead.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "EntityRendererOverheadMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
